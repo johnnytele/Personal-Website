@@ -1,5 +1,5 @@
 <script lang="ts">
-    import Folders from "lucide-svelte/icons/Folders";
+    import { Folders } from "lucide-svelte";
     import * as Card from "$lib/components/ui/card/index.js";
     import { Button } from "$lib/components/ui/button/index.js";
 </script>

@@ -1,8 +1,6 @@
 <script lang="ts">
     import * as Card from "$lib/components/ui/card/index.js";
-    import TabletSmartphone from "lucide-svelte/icons/tablet-smartphone";
-    import LaptopMinimal from "lucide-svelte/icons/laptop-minimal";
-    import Cctv from "lucide-svelte/icons/Cctv";
+    import { TabletSmartphone, LaptopMinimal, Cctv } from "lucide-svelte";
 
     let projects = [
         {
