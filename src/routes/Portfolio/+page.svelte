@@ -9,7 +9,7 @@
             slug: "THSMS",
             name: "THSMS",
             image: "/images/THSMS.jpg",
-            description: "A system used to keep track of dishes in the sink",
+            description: "The Homestead Sink Management System is a system used to keep track of dishes in the sink",
             type: "Personal Project",
             form: "Full Stack Project",
             descriptionLong: "THSMS (Tracking Household Sink Management System) is a full-stack project designed to track sink usage in a shared college house. Using a Raspberry Pi, OpenCV, and a local SQLite database, it captured motion-triggered videos and photos of the sink, documenting before-and-after states to identify dish-related culprits. The project featured a simple, mobile-optimized web interface and taught me valuable lessons about system design, open-source tools, and the fun of bringing personal ideas to life."
