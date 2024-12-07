@@ -16,11 +16,14 @@
     </Card.Header>
 
     <Card.Content> 
-        I grew up in the Bay Area, going to high school at Monte Vista where I played volleyball and was involved in student government. I attended Miami Univeristy for college. I was apart of two computer science study abroad programs while at Miami, one in Southern Italy and the other in Manchester England. In my free time, I assistant coached a volleyball team for two years. I was also a member of the Cyber Security Club and Philosophy Club and volunteered at Meal on Wheels. I graduated from Miami Univeristy in 2024 with a Bachelor of Science in Computer Science as well as two minors in Statistical Methods and Social Justice.
+        I grew up in the Bay Area and attended Monte Vista High School, where I played volleyball and participated in student government. For college, I chose Miami University, where I had the incredible opportunity to be part of two computer science study abroad programs—one in Southern Italy and another in Manchester, England.
+        In my free time, I combined my passions for volleyball and mentorship by assistant coaching a team for two years. I also stayed engaged on campus as a member of the Cyber Security Club and Philosophy Club, and I volunteered with Meals on Wheels, giving back to the community.
+        I graduated from Miami University in 2024 with a Bachelor of Science in Computer Science, along with minors in Statistical Methods and Social Justice.
     </Card.Content>
 
     <Card.Content> 
-        This website serves as a portfolio of my favorite academic and personal projects. I love learning and building things. It is these two characteristics that have helped me grow into the programmer that I am today and will drive me forward towards a the programmer I'll be later in my career. The projects I have selected are supposed to not just show my work but also my curiosity and love for building.
+        This website serves as a portfolio of my favorite academic and personal projects. Learning and building are my passions, and they’ve shaped me into the programmer I am today. They also motivate me to continuously grow into the programmer I aspire to become.
+        The projects showcased here are more than just work—they reflect my curiosity, creativity, and love for solving problems and creating meaningful tools.
     </Card.Content>
 
     <Card.Footer> 
