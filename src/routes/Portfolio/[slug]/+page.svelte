@@ -39,7 +39,7 @@
                 <h1 class="text-2xl font-bold text-gray-800 my-2">Inspiration</h1>
                 <div class="prose max-w-none"><p>{@html formattedInsiration}</p></div>
 
-                <h1 class="text-2xl font-bold text-gray-800 my-2">How I built it this project</h1>
+                <h1 class="text-2xl font-bold text-gray-800 my-2">How I built this project</h1>
                 <div class="prose max-w-none"><p>{@html formattedBody}</p></div>
 
                 <h1 class="text-2xl font-bold text-gray-800 my-2">Conclusion</h1>
